@@ -20,7 +20,7 @@ server, and gives you the option to choose between group chat or private chat
 
 # GROUP CHATTING
 
-Let's say client 1 & 2 both chose option 1 (group chatting) the they will be chatting in a public channel anyone can join
+Let's say client 1 & 2 both chose option 1 (group chatting). They will be chatting in a public channel anyone can join
 
 ![](https://i.imgur.com/qteiJAM.gif)
 
